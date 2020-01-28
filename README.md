@@ -9,5 +9,6 @@ This command is a joke program developed to trick my boss who often mistakes "gr
 ## thanks
 [https://github.com/mtoyoda/sl](https://github.com/mtoyoda/sl)
 
-A ["sl" command](https://github.com/mtoyoda/sl) is a copyrighted work of [Toyoda Masashi](http://www.tkl.iis.u-tokyo.ac.jp/~toyoda/).<br>
+A ["sl" command](https://github.com/mtoyoda/sl) is a copyrighted work of [Toyoda Masashi](http://www.tkl.iis.u-tokyo.ac.jp/~toyoda/).
+
 The "gerp" command is created with reference to the "sl" command and performs a similar operation, but the content of the source code is different.
