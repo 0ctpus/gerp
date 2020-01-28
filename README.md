@@ -6,7 +6,7 @@ This command is a joke program developed to trick my boss who often mistakes "gr
 
 ("gerp" is a word that reminds Japanese of the burp sound.)
 
-##thanks
+## thanks
 [https://github.com/mtoyoda/sl](https://github.com/mtoyoda/sl)
 
 A ["sl" command] (https://github.com/mtoyoda/sl) is a copyrighted work of [Toyoda Masashi](http://www.tkl.iis.u-tokyo.ac.jp/~toyoda/).<br>
